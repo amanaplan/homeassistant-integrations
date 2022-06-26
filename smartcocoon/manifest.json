@@ -1,0 +1,18 @@
+{
+  "domain": "smartcocoon",
+  "name": "SmartCocoon",
+  "version": "0.0.2",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/smartcocoon",
+  "requirements": [
+    "pysmartcocoon==0.5.4"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@urbandave"
+  ],
+  "iot_class": "cloud_push"
+}
